@@ -1,0 +1,913 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CN.NET\\DoAn.NET1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|d:\\cn.net\\doan.net1\\dall\\dal_hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\dal_hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|d:\\cn.net\\doan.net1\\doan.net1\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmdangkihocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmdangkihocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmgiaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|D:\\CN.NET\\DoAn.NET1\\dall\\dal_hocbong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\dal_hocbong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|D:\\CN.NET\\DoAn.NET1\\dall\\dal_diemdanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\dal_diemdanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|D:\\CN.NET\\DoAn.NET1\\dall\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|D:\\CN.NET\\DoAn.NET1\\dall\\dal_bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\dal_bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DALL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|D:\\CN.NET\\DoAn.NET1\\dall\\qlsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\qlsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|D:\\CN.NET\\DoAn.NET1\\dall\\qlsv.dbml.layout||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\qlsv.dbml.layout||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DTO||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|D:\\CN.NET\\DoAn.NET1\\dall\\dal_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\dal_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\dataconnect\\dataconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\dataconnect\\dataconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\dataconnect\\itconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\dataconnect\\itconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|D:\\CN.NET\\DoAn.NET1\\dto\\dto_bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|solutionrelative:dto\\dto_bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|D:\\CN.NET\\DoAn.NET1\\dto\\dto_bangvipham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|solutionrelative:dto\\dto_bangvipham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|D:\\CN.NET\\DoAn.NET1\\dto\\dto_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|solutionrelative:dto\\dto_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|D:\\CN.NET\\DoAn.NET1\\dto\\dto_hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|solutionrelative:dto\\dto_hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|D:\\CN.NET\\DoAn.NET1\\dto\\dto_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|solutionrelative:dto\\dto_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|D:\\CN.NET\\DoAn.NET1\\dto\\dto_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E038BD58-2C67-4107-AABF-DED525703676}|DTO\\DTO.csproj|solutionrelative:dto\\dto_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101F4DA4-E79A-4872-9BD6-41A87100C7A4}|BLL\\BLL.csproj|D:\\CN.NET\\DoAn.NET1\\bll\\bll_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101F4DA4-E79A-4872-9BD6-41A87100C7A4}|BLL\\BLL.csproj|solutionrelative:bll\\bll_giaovien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101F4DA4-E79A-4872-9BD6-41A87100C7A4}|BLL\\BLL.csproj|D:\\CN.NET\\DoAn.NET1\\bll\\bll_bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101F4DA4-E79A-4872-9BD6-41A87100C7A4}|BLL\\BLL.csproj|solutionrelative:bll\\bll_bangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101F4DA4-E79A-4872-9BD6-41A87100C7A4}|BLL\\BLL.csproj|D:\\CN.NET\\DoAn.NET1\\bll\\bll_hocbong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101F4DA4-E79A-4872-9BD6-41A87100C7A4}|BLL\\BLL.csproj|solutionrelative:bll\\bll_hocbong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|D:\\CN.NET\\DoAn.NET1\\dall\\dal_bangvipham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\dal_bangvipham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|D:\\CN.NET\\DoAn.NET1\\dall\\dal_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\dal_lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|D:\\CN.NET\\DoAn.NET1\\dall\\dal_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\dal_khoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|D:\\CN.NET\\DoAn.NET1\\dall\\qlsv.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{9D0B6C5C-1029-4936-A594-7EB7EA6CD15A}|DALL\\DALL.csproj|solutionrelative:dall\\qlsv.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101F4DA4-E79A-4872-9BD6-41A87100C7A4}|BLL\\BLL.csproj|D:\\CN.NET\\DoAn.NET1\\bll\\bll_bangvipham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101F4DA4-E79A-4872-9BD6-41A87100C7A4}|BLL\\BLL.csproj|solutionrelative:bll\\bll_bangvipham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmthongtinsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmthongtinsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmthongtinsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmthongtinsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{101F4DA4-E79A-4872-9BD6-41A87100C7A4}|BLL\\BLL.csproj|D:\\CN.NET\\DoAn.NET1\\bll\\bll_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{101F4DA4-E79A-4872-9BD6-41A87100C7A4}|BLL\\BLL.csproj|solutionrelative:bll\\bll_sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmhocbong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmhocbong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmsinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmchucnangdkhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmchucnangdkhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmchucnangkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmchucnangkhoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmchucnangbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmchucnangbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmchuacnanggv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmchuacnanggv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmdiemdanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmdiemdanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmbangdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|D:\\CN.NET\\DoAn.NET1\\doan.net1\\frmchuacnanggv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0DE8BB3-BB0F-4148-81B8-2D256E29773F}|DoAn.NET1\\GUI.csproj|solutionrelative:doan.net1\\frmchuacnanggv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET\\DoAn.NET\\DoAn.NET1\\doan.net1\\dangkihocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\doan.net1\\frmsinhvienvipham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DTO\\DTO_HocBong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DAL_HocPhan.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_HocPhan.cs",
+              "RelativeDocumentMoniker": "DALL\\DAL_HocPhan.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_HocPhan.cs",
+              "RelativeToolTip": "DALL\\DAL_HocPhan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T16:18:07.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmLogin.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmLogin.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmLogin.cs",
+              "RelativeToolTip": "DoAn.NET1\\frmLogin.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:07:35.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmDangKiHocPhan.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmDangKiHocPhan.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmDangKiHocPhan.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmDangKiHocPhan.cs",
+              "RelativeToolTip": "DoAn.NET1\\frmDangKiHocPhan.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:07:19.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmChangePass.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmChangePass.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmChangePass.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmChangePass.cs",
+              "RelativeToolTip": "DoAn.NET1\\frmChangePass.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:07:03.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRegister.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmRegister.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmRegister.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmRegister.cs",
+              "RelativeToolTip": "DoAn.NET1\\frmRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T09:06:39.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DAL_DiemDanh.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_DiemDanh.cs",
+              "RelativeDocumentMoniker": "DALL\\DAL_DiemDanh.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_DiemDanh.cs",
+              "RelativeToolTip": "DALL\\DAL_DiemDanh.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAADwv4IAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:55:48.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DAL_HocBong.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_HocBong.cs",
+              "RelativeDocumentMoniker": "DALL\\DAL_HocBong.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_HocBong.cs",
+              "RelativeToolTip": "DALL\\DAL_HocBong.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:55:39.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QLSV.dbml.layout",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\QLSV.dbml.layout",
+              "RelativeDocumentMoniker": "DALL\\QLSV.dbml.layout",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\QLSV.dbml.layout",
+              "RelativeToolTip": "DALL\\QLSV.dbml.layout",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T11:01:12.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmRegister.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmRegister.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmRegister.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmRegister.cs [Design]",
+              "RelativeToolTip": "DoAn.NET1\\frmRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:26:14.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmGiaoVien.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmGiaoVien.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmGiaoVien.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmGiaoVien.cs",
+              "RelativeToolTip": "DoAn.NET1\\frmGiaoVien.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:48:10.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "DALL\\Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "DALL\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxwAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:40:32.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DALL",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\DALL.csproj",
+              "RelativeDocumentMoniker": "DALL\\DALL.csproj",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\DALL.csproj",
+              "RelativeToolTip": "DALL\\DALL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-11T09:49:59.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DAL_BangDiem.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_BangDiem.cs",
+              "RelativeDocumentMoniker": "DALL\\DAL_BangDiem.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_BangDiem.cs",
+              "RelativeToolTip": "DALL\\DAL_BangDiem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:55:45.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "QLSV.designer.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\QLSV.designer.cs",
+              "RelativeDocumentMoniker": "DALL\\QLSV.designer.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\QLSV.designer.cs",
+              "RelativeToolTip": "DALL\\QLSV.designer.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAuwBkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:00:55.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DTO",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO.csproj",
+              "RelativeDocumentMoniker": "DTO\\DTO.csproj",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO.csproj",
+              "RelativeToolTip": "DTO\\DTO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-22T11:01:20.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DAL_SinhVien.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_SinhVien.cs",
+              "RelativeDocumentMoniker": "DALL\\DAL_SinhVien.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_SinhVien.cs",
+              "RelativeToolTip": "DALL\\DAL_SinhVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:39:30.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DTO_BangDiem.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_BangDIem.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_BangDIem.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_BangDIem.cs",
+              "RelativeToolTip": "DTO\\DTO_BangDIem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:43:50.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DTO_BangViPham.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_BangViPham.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_BangViPham.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_BangViPham.cs",
+              "RelativeToolTip": "DTO\\DTO_BangViPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:56:22.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataConnect.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\DataConnect\\DataConnect.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\DataConnect\\DataConnect.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\DataConnect\\DataConnect.cs",
+              "RelativeToolTip": "DoAn.NET1\\DataConnect\\DataConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:12:19.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "itConnect.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\DataConnect\\itConnect.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\DataConnect\\itConnect.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\DataConnect\\itConnect.cs",
+              "RelativeToolTip": "DoAn.NET1\\DataConnect\\itConnect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:13:18.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DTO_HocPhan.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_HocPhan.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_HocPhan.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_HocPhan.cs",
+              "RelativeToolTip": "DTO\\DTO_HocPhan.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:21:10.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DTO_SinhVien.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_SinhVien.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_SinhVien.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_SinhVien.cs",
+              "RelativeToolTip": "DTO\\DTO_SinhVien.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAA0wBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:38:04.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DTO_Khoa.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_Khoa.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_Khoa.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_Khoa.cs",
+              "RelativeToolTip": "DTO\\DTO_Khoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:56:13.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BLL_GiaoVien.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\BLL\\BLL_GiaoVien.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_GiaoVien.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\BLL\\BLL_GiaoVien.cs",
+              "RelativeToolTip": "BLL\\BLL_GiaoVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:55:56.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BLL_BangDiem.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\BLL\\BLL_BangDiem.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_BangDiem.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\BLL\\BLL_BangDiem.cs",
+              "RelativeToolTip": "BLL\\BLL_BangDiem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:55:55.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DTO_GiaoVien.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_GiaoVien.cs",
+              "RelativeDocumentMoniker": "DTO\\DTO_GiaoVien.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DTO\\DTO_GiaoVien.cs",
+              "RelativeToolTip": "DTO\\DTO_GiaoVien.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIBAwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:38:59.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BLL_HocBong.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\BLL\\BLL_HocBong.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_HocBong.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\BLL\\BLL_HocBong.cs",
+              "RelativeToolTip": "BLL\\BLL_HocBong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:55:54.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DAL_BangViPham.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_BangViPham.cs",
+              "RelativeDocumentMoniker": "DALL\\DAL_BangViPham.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_BangViPham.cs",
+              "RelativeToolTip": "DALL\\DAL_BangViPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:55:49.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmChangePass.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmChangePass.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmChangePass.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmChangePass.cs [Design]",
+              "RelativeToolTip": "DoAn.NET1\\frmChangePass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:55:44.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DAL_Lop.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_Lop.cs",
+              "RelativeDocumentMoniker": "DALL\\DAL_Lop.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_Lop.cs",
+              "RelativeToolTip": "DALL\\DAL_Lop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:55:50.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DAL_Khoa.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_Khoa.cs",
+              "RelativeDocumentMoniker": "DALL\\DAL_Khoa.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\DAL_Khoa.cs",
+              "RelativeToolTip": "DALL\\DAL_Khoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:55:43.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BLL_BangViPham.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\BLL\\BLL_BangViPham.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_BangViPham.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\BLL\\BLL_BangViPham.cs",
+              "RelativeToolTip": "BLL\\BLL_BangViPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:55:37.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmThongTinSV.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmThongTinSV.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmThongTinSV.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmThongTinSV.cs",
+              "RelativeToolTip": "DoAn.NET1\\frmThongTinSV.cs",
+              "ViewState": "AQIAAA4AAADAzszMzEwdwBEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:14:39.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "frmThongTinSV.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmThongTinSV.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmThongTinSV.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmThongTinSV.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmThongTinSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:58:44.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "QLSV.dbml",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DALL\\QLSV.dbml",
+              "RelativeDocumentMoniker": "DALL\\QLSV.dbml",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DALL\\QLSV.dbml",
+              "RelativeToolTip": "DALL\\QLSV.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-05-11T06:42:32.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\Program.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\Program.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\Program.cs",
+              "RelativeToolTip": "DoAn.NET1\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:26:34.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BLL_SinhVien.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\BLL\\BLL_SinhVien.cs",
+              "RelativeDocumentMoniker": "BLL\\BLL_SinhVien.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\BLL\\BLL_SinhVien.cs",
+              "RelativeToolTip": "BLL\\BLL_SinhVien.cs",
+              "ViewState": "AQIAABoAAADgmJmZmdkiwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:50:02.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "frmKhoa.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmKhoa.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmKhoa.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmKhoa.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:45:41.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "frmLoad.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmLoad.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmLoad.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmLoad.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmLoad.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:45:38.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\Form1.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\Form1.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\Form1.cs",
+              "RelativeToolTip": "DoAn.NET1\\Form1.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAADwv2gAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:52:36.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "frmHocBong.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmHocBong.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmHocBong.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmHocBong.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmHocBong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:45:42.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "frmSInhVienViPham.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmSInhVienViPham.cs",
+              "RelativeDocumentMoniker": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmSInhVienViPham.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmSInhVienViPham.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmSInhVienViPham.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:30:10.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "frmSinhVien.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmSInhVien.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmSInhVien.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmSInhVien.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmSInhVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T05:58:11.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "frmSinhVien.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmSInhVien.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmSInhVien.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmSInhVien.cs",
+              "RelativeToolTip": "DoAn.NET1\\frmSInhVien.cs",
+              "ViewState": "AQIAABIAAAAAmpmZmZkfwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T06:50:18.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "frmChucNangDKHP.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmChucNangDKHP.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmChucNangDKHP.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmChucNangDKHP.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmChucNangDKHP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:29:33.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "frmChucNangKhoa.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmChucNangKhoa.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmChucNangKhoa.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmChucNangKhoa.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmChucNangKhoa.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:29:34.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "frmChucNangBangDiem.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmChucNangBangDiem.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmChucNangBangDiem.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmChucNangBangDiem.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmChucNangBangDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:29:32.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "frmDiemDanh.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmDiemDanh.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmDiemDanh.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmDiemDanh.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmDiemDanh.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:29:25.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "frmChuacNangGV.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmChuacNangGV.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmChuacNangGV.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmChuacNangGV.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmChuacNangGV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T20:02:37.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\App.config",
+              "RelativeDocumentMoniker": "DoAn.NET1\\App.config",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\App.config",
+              "RelativeToolTip": "DoAn.NET1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-11T09:43:10.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\Form1.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\Form1.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T08:51:34.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "DTO_HocBong.cs",
+              "DocumentMoniker": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DTO\\DTO_HocBong.cs",
+              "RelativeDocumentMoniker": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DTO\\DTO_HocBong.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DTO\\DTO_HocBong.cs",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DTO\\DTO_HocBong.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:21:09.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "frmBangDiem.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmBangDiem.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmBangDiem.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmBangDiem.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\DoAn.NET1\\frmBangDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:51:56.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "frmBangDiem.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmBangDiem.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmBangDiem.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmBangDiem.cs",
+              "RelativeToolTip": "DoAn.NET1\\frmBangDiem.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwBwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T10:55:26.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmLogin.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmLogin.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmLogin.cs [Design]",
+              "RelativeToolTip": "DoAn.NET1\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:26:16.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "DangKiHocPhan.cs [Design]",
+              "DocumentMoniker": "D:\\.NET\\DoAn.NET\\DoAn.NET1\\DoAn.NET1\\DangKiHocPhan.cs",
+              "RelativeDocumentMoniker": "..\\..\\.NET\\DoAn.NET\\DoAn.NET1\\DoAn.NET1\\DangKiHocPhan.cs",
+              "ToolTip": "D:\\.NET\\DoAn.NET\\DoAn.NET1\\DoAn.NET1\\DangKiHocPhan.cs [Design]",
+              "RelativeToolTip": "..\\..\\.NET\\DoAn.NET\\DoAn.NET1\\DoAn.NET1\\DangKiHocPhan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T19:55:20.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "frmChuacNangGV.cs",
+              "DocumentMoniker": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmChuacNangGV.cs",
+              "RelativeDocumentMoniker": "DoAn.NET1\\frmChuacNangGV.cs",
+              "ToolTip": "D:\\CN.NET\\DoAn.NET1\\DoAn.NET1\\frmChuacNangGV.cs",
+              "RelativeToolTip": "DoAn.NET1\\frmChuacNangGV.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAASwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T07:25:00.696Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
